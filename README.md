@@ -4,6 +4,7 @@
 	Catppuccin for <a href="https://docs.racket-lang.org/drracket/index.html">DrRacket</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
+
 # About
 This is a port of Catppuccin theme for DrRacket.
 
