@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PanAeon/catppuccin/main/assets/demo.png"/>
+  <img src="https://github.com/PanAeon/drracket-catppuccin/blob/main/assets/demo.png?raw=true"/>
 </p>
 
 # About
