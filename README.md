@@ -15,7 +15,7 @@ This is a port of Catppuccin theme for DrRacket.
 
 # Usage
 ```bash
- raco pkg install drracket-catpuccin
+ raco pkg install drracket-catppuccin
 ```
 Then choose the theme in the `Preferences`. You might need to reload the IDE for the theme to appear.
 
