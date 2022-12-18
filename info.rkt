@@ -3,6 +3,7 @@
 ;; Package metadata.
 (define version "0.1")
 (define deps '("base"))
+(define license 'MIT)
 
 (define collection "drracket-catppuccin")
 
