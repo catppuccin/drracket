@@ -1,7 +1,7 @@
 #lang info
 
 ;; Package metadata.
-(define version "0.1")
+(define version "0.2")
 (define deps '("base"))
 (define license 'MIT)
 
