@@ -12,10 +12,9 @@ whiskers:
 
 (define collection "drracket-catppuccin")
 
-;; Catppuccin goes Purrr! 
 {%- for id, flavor in flavors %}
 {%- for _, color in flavor.colors %}
-  (define {{ flavor.identifier }}-{{ color.identifier }})    #({{ color.rgb.r }} {{ color.rgb.g }} {{ color.rgb.b }})
+  (define {{ flavor.identifier }}-{{ color.identifier }})    #({{ color.rgb.r }} {{ color.rgb.g }} {{ color.rgb.b }}))
 {%- endfor %}
 {%- endfor %}
   
