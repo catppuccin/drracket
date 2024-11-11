@@ -35,9 +35,9 @@
    - On macOS, it's at `/Applications/Racket/bin/raco`.
 2. Use `raco` to install the package:
 
-```bash
-raco pkg install drracket-catppuccin
-```
+    ```bash
+    raco pkg install catppuccin-theme
+    ```
 
 3.  Choose the theme in the `Preferences`. You might need to reload the IDE for the theme to appear.
 

@@ -1,11 +1,11 @@
 #lang info
 
 ;; Package metadata.
-(define version "0.2")
+(define version "1.0")
 (define deps '("base"))
 (define license 'MIT)
 
-(define collection "drracket-catppuccin")
+(define collection "catppuccin-theme")
   (define latte-rosewater)    #(220 138 120))
   (define latte-flamingo)    #(221 120 120))
   (define latte-pink)    #(234 118 203))

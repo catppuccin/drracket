@@ -6,11 +6,11 @@ whiskers:
 #lang info
 
 ;; Package metadata.
-(define version "0.2")
+(define version "1.0")
 (define deps '("base"))
 (define license 'MIT)
 
-(define collection "drracket-catppuccin")
+(define collection "catppuccin-theme")
 
 {%- for id, flavor in flavors %}
 {%- for _, color in flavor.colors %}
