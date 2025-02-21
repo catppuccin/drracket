@@ -39,6 +39,12 @@
     raco pkg install catppuccin-theme
     ```
 
+    If the above command fails due to package naming conflicts, install via a GitHub redirect:
+
+    ```bash
+    raco pkg install https://github.com/catppuccin/drracket-catppuccin.git
+    ```
+
 3.  Choose the theme in the `Preferences`. You might need to reload the IDE for the theme to appear.
 
 ## 💝 Thanks to
